@@ -65,31 +65,17 @@ public class P775_GlobalAndLocalInversions{
 //力扣代码
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-	int[] arr;
     public boolean isIdealPermutation(int[] nums) {
 		int len = nums.length;
-		arr = new int[len];
-		int global = 0;
-		int part = 0;
-		for (int i = 1; i < len; i++) {
-			if (nums[i - 1] > nums[i]) {
-				part++;
+		int min = nums[len - 1];
+		for (int i = len - 3; i >= 0; i--) {
+			if (nums[i] > min) {
+				return false;
 			}
-			global += calculateGlobal(nums[i - 1]);
+			min = Math.min(min, nums[i + 1]);
 		}
-		return global == part;
+		return true;
     }
-
-	private int calculateGlobal(int num) {
-    	int temp = 0;
-    	arr[num] = 1;
-		for (int i = 0; i < num; i++) {
-			if (arr[i] == 0) {
-				temp++;
-			}
-		}
-		return temp;
-	}
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
