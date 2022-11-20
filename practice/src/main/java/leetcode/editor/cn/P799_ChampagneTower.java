@@ -65,26 +65,21 @@ public class P799_ChampagneTower{
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public double champagneTower(int poured, int query_row, int query_glass) {
-		int sumByRow = getSumByRow(query_row + 1);
-		if (poured >= sumByRow) {
-			return 1;
+		// dp[i][j] 为第i行第j列的杯子所经过的水的流量
+		double[][] dp = new double[query_row + 10][query_row + 10];
+		dp[0][0] = poured;
+		for (int i = 0; i <= query_row; i++) {
+			for (int j = 0; j <= i; j++) {
+				// 当前行列的杯子里流过的水大于1时，才会往下流
+				if (dp[i][j] <= 1) {
+					continue;
+				}
+				dp[i + 1][j] += (dp[i][j] - 1) / 2;
+				dp[i + 1][j + 1] += (dp[i][j] - 1) / 2;
+			}
 		}
-		sumByRow = getSumByRow(query_row);
-		if (poured <= sumByRow) {
-			return 0;
-		}
-		int count_two = query_row - 1;
-		int div = (count_two + 1) * 2;
-		double single = (double) (poured - sumByRow) / div;
-		if (query_glass == 0 || query_glass == query_row) {
-			return single;
-		}
-		return single * 2;
+		return Math.min(dp[query_row][query_glass], 1);
     }
-
-    private int getSumByRow(int num) {
-    	return ((1 + num) * num) / 2;
-	}
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
