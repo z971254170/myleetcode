@@ -55,9 +55,6 @@ class Solution {
 			return 0;
 		}
 		String trim = s.trim();
-		if ("".equals(s)) {
-			return 1;
-		}
 		Map<Character, Integer> map = new HashMap<>();
 		char[] chs = trim.toCharArray();
 		int left = 0;

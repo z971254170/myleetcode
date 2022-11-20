@@ -39,15 +39,35 @@ package leetcode.editor.cn;
 //
 // Related Topics 数组 二分查找 分治 👍 6083 👎 0
 
+import java.util.Arrays;
+
 public class P4_MedianOfTwoSortedArrays{
 	public static void main(String[] args) {
 		Solution solution = new P4_MedianOfTwoSortedArrays().new Solution();
-		
+		int[] ints = {1, 2};
+		int[] ints1 = {3, 4};
+		solution.findMedianSortedArrays(ints, ints1);
 	}
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-
+		int len1 = nums1.length;
+		int len2 = nums2.length;
+		int[] arr = new int[len1 + len2];
+		int idx1 = 0;
+		int idx2 = 0;
+		for (int i = 0; i < len1 + len2; i++) {
+			if (idx1 < len1) {
+				arr[i] = nums1[idx1++];
+			} else {
+				arr[i] = nums2[idx2++];
+			}
+		}
+		Arrays.sort(arr);
+		if ((len1 + len2) % 2 == 0) {
+			return ((double) arr[(len1 + len2) / 2] + (double) arr[(len1 + len2) / 2 - 1]) / 2;
+		}
+		return arr[(len1 + len2) / 2];
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
