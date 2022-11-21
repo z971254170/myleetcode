@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P808_SoupServings.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P808_SoupServings.md" />
+              <option name="frontendQuestionId" value="leetcode.cn808" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P808_SoupServings.java" />
+              <option name="titleSlug" value="soup-servings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
