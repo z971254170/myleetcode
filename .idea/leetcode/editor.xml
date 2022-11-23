@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1742_MaximumNumberOfBallsInABox.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1742" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java" />
+              <option name="titleSlug" value="maximum-number-of-balls-in-a-box" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P775_GlobalAndLocalInversions.java">
           <value>
             <LeetcodeEditor>
@@ -88,6 +99,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P808_SoupServings.java" />
               <option name="titleSlug" value="soup-servings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P878_NthMagicalNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P878_NthMagicalNumber.md" />
+              <option name="frontendQuestionId" value="leetcode.cn878" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P878_NthMagicalNumber.java" />
+              <option name="titleSlug" value="nth-magical-number" />
             </LeetcodeEditor>
           </value>
         </entry>
