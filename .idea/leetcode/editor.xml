@@ -47,102 +47,113 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/4$_!velocityTool.camelCaseName(median-of-two-sorted-arrays).java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md" />
-              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1742_MaximumNumberOfBallsInABox.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1742" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java" />
-              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java" />
+              <option name="titleSlug" value="maximum-number-of-balls-in-a-box" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/4_MedianOfTwoSortedArrays.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1752_CheckIfArrayIsSortedAndRotated .java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md" />
-              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1752_CheckIfArrayIsSortedAndRotated.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1752" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java" />
-              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1752_CheckIfArrayIsSortedAndRotated.java" />
+              <option name="titleSlug" value="check-if-array-is-sorted-and-rotated" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/AddTwoNumbers.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1752_CheckIfArrayIsSortedAndRotated.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
-              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1752_CheckIfArrayIsSortedAndRotated.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1752" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/AddTwoNumbers.java" />
-              <option name="titleSlug" value="add-two-numbers" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1752_CheckIfArrayIsSortedAndRotated.java" />
+              <option name="titleSlug" value="check-if-array-is-sorted-and-rotated" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/FindTheHighestAltitude.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1758_MinimumChangesToMakeAlternatingBinaryString.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/FindTheHighestAltitude.md" />
-              <option name="frontendQuestionId" value="leetcode.cn1732" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1758_MinimumChangesToMakeAlternatingBinaryString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1758" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/FindTheHighestAltitude.java" />
-              <option name="titleSlug" value="find-the-highest-altitude" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1758_MinimumChangesToMakeAlternatingBinaryString.java" />
+              <option name="titleSlug" value="minimum-changes-to-make-alternating-binary-string" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1769_MinimumNumberOfOperationsToMoveAllBallsToEachBox.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P3_LongestSubstringWithoutRepeatingCharacters.md" />
-              <option name="frontendQuestionId" value="leetcode.cn3" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1769_MinimumNumberOfOperationsToMoveAllBallsToEachBox.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1769" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P3_LongestSubstringWithoutRepeatingCharacters.java" />
-              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1769_MinimumNumberOfOperationsToMoveAllBallsToEachBox.java" />
+              <option name="titleSlug" value="minimum-number-of-operations-to-move-all-balls-to-each-box" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/MaximumProfitInJobScheduling.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1774_ClosestDessertCost.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/MaximumProfitInJobScheduling.md" />
-              <option name="frontendQuestionId" value="leetcode.cn1235" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1774_ClosestDessertCost.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1774" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/MaximumProfitInJobScheduling.java" />
-              <option name="titleSlug" value="maximum-profit-in-job-scheduling" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1774_ClosestDessertCost.java" />
+              <option name="titleSlug" value="closest-dessert-cost" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P3_LongestSubstringWithoutRepeatingCharacters.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1775_EqualSumArraysWithMinimumNumberOfOperations.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P3_LongestSubstringWithoutRepeatingCharacters.md" />
-              <option name="frontendQuestionId" value="leetcode.cn3" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1775_EqualSumArraysWithMinimumNumberOfOperations.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1775" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P3_LongestSubstringWithoutRepeatingCharacters.java" />
-              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1775_EqualSumArraysWithMinimumNumberOfOperations.java" />
+              <option name="titleSlug" value="equal-sum-arrays-with-minimum-number-of-operations" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1779_FindNearestPointThatHasTheSameXOrYCoordinate.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md" />
-              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1779_FindNearestPointThatHasTheSameXOrYCoordinate.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1779" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java" />
-              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1779_FindNearestPointThatHasTheSameXOrYCoordinate.java" />
+              <option name="titleSlug" value="find-nearest-point-that-has-the-same-x-or-y-coordinate" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P5_LongestPalindromicSubstring.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1781_SumOfBeautyOfAllSubstrings.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md" />
-              <option name="frontendQuestionId" value="leetcode.cn5" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1781_SumOfBeautyOfAllSubstrings.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1781" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P5_LongestPalindromicSubstring.java" />
-              <option name="titleSlug" value="longest-palindromic-substring" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1781_SumOfBeautyOfAllSubstrings.java" />
+              <option name="titleSlug" value="sum-of-beauty-of-all-substrings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1832_CheckIfTheSentenceIsPangram.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P1832_CheckIfTheSentenceIsPangram.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1832" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P1832_CheckIfTheSentenceIsPangram.java" />
+              <option name="titleSlug" value="check-if-the-sentence-is-pangram" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -168,25 +179,91 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/[4]MedianOfTwoSortedArrays.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md" />
-              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P795_NumberOfSubarraysWithBoundedMaximum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn795" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java" />
-              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java" />
+              <option name="titleSlug" value="number-of-subarrays-with-bounded-maximum" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/[4]median-of-two-sorted-arrays.java">
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P799_ChampagneTower.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md" />
-              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P799_ChampagneTower.md" />
+              <option name="frontendQuestionId" value="leetcode.cn799" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java" />
-              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P799_ChampagneTower.java" />
+              <option name="titleSlug" value="champagne-tower" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P808_SoupServings.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P808_SoupServings.md" />
+              <option name="frontendQuestionId" value="leetcode.cn808" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P808_SoupServings.java" />
+              <option name="titleSlug" value="soup-servings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P809_ExpressiveWords.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P809_ExpressiveWords.md" />
+              <option name="frontendQuestionId" value="leetcode.cn809" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P809_ExpressiveWords.java" />
+              <option name="titleSlug" value="expressive-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P813_LargestSumOfAverages.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P813_LargestSumOfAverages.md" />
+              <option name="frontendQuestionId" value="leetcode.cn813" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P813_LargestSumOfAverages.java" />
+              <option name="titleSlug" value="largest-sum-of-averages" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P878_NthMagicalNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P878_NthMagicalNumber.md" />
+              <option name="frontendQuestionId" value="leetcode.cn878" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P878_NthMagicalNumber.java" />
+              <option name="titleSlug" value="nth-magical-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P882_ReachableNodesInSubdividedGraph .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P882_ReachableNodesInSubdividedGraph .md" />
+              <option name="frontendQuestionId" value="leetcode.cn882" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P882_ReachableNodesInSubdividedGraph .java" />
+              <option name="titleSlug" value="reachable-nodes-in-subdivided-graph" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P895_MaximumFrequencyStack.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/doc/content/P895_MaximumFrequencyStack.md" />
+              <option name="frontendQuestionId" value="leetcode.cn895" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/practice/src/main/java/leetcode/editor/cn/P895_MaximumFrequencyStack.java" />
+              <option name="titleSlug" value="maximum-frequency-stack" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -1,5 +1,3 @@
-package leetcode.editor.cn;
-
 //你打算做甜点，现在需要购买配料。目前共有 n 种冰激凌基料和 m 种配料可供选购。而制作甜点需要遵循以下几条规则： 
 //
 // 
@@ -74,17 +72,55 @@ package leetcode.editor.cn;
 // 1 <= target <= 10⁴ 
 // 
 //
-// Related Topics 数组 动态规划 回溯 👍 74 👎 0
+// Related Topics 数组 动态规划 回溯 👍 131 👎 0
 
+
+package leetcode.editor.cn;
+
+import java.util.Arrays;
+
+/**
+ * 最接近目标价格的甜点成本
+ * @author ZSW
+ * @date 2022-12-04 22:43:16
+ */
 public class P1774_ClosestDessertCost{
-	public static void main(String[] args) {
-		Solution solution = new P1774_ClosestDessertCost().new Solution();
-		
-	}
-//leetcode submit region begin(Prohibit modification and deletion)
+    public static void main(String[] args) {
+	 	 //测试代码
+        Solution solution = new P1774_ClosestDessertCost().new Solution();
+    }
+	 
+//力扣代码
+    //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
+        int res = 0;
     public int closestCost(int[] baseCosts, int[] toppingCosts, int target) {
+        res = Arrays.stream(baseCosts).min().getAsInt();
+        for (int b : baseCosts) {
+            dfs(toppingCosts, 0, b, target);
 
+
+        }
+        return res;
+    }
+
+    public void dfs(int[] toppingCosts, int p, int curCost, int target) {
+        if (Math.abs(res - target) < curCost - target) {
+            return;
+        }
+        if (Math.abs(res - target) >= Math.abs(curCost - target)) {
+            if (Math.abs(res - target) > Math.abs(curCost - target)) {
+                res = curCost;
+            } else {
+                res = Math.min(res, curCost);
+            }
+        }
+        if(p == toppingCosts.length) {
+            return;
+        }
+        dfs(toppingCosts, p + 1, curCost + toppingCosts[p] * 2, target);
+        dfs(toppingCosts, p + 1, curCost + toppingCosts[p], target);
+        dfs(toppingCosts, p + 1, curCost, target);
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
